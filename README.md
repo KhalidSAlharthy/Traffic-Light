@@ -21,4 +21,5 @@ A simple Arduino project that simulates a basic traffic light system using red, 
 
  ⚡ Circuit Diagram
 
+
 <img width="650" alt="Traffic Light" src="https://github.com/user-attachments/assets/3781cab6-3062-4391-ad57-ec88e6767f78" />
